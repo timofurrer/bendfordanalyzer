@@ -5,10 +5,10 @@
 ***
 
 **Author:** Timo Furrer <tuxtimo@gmail.com><br />
-**License:** GPL<br />
+**License:** GPL
 
 ## Usage
 
 This little script can be used to analyze a text file for the natural appearance of numbers. 
 
-    $ python bendfordanalyzer mytextwithnumbers.txt
+    $ python bendfordanalyzer.py mytextwithnumbers.txt
